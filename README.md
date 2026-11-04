@@ -61,7 +61,7 @@ Donanım ve sistem altyapısı tarafından gelen, yazılım geliştirme ve siber
 
 <p>
   <a href="https://github.com/m-emrekalay"><img src="https://img.shields.io/badge/GitHub-m--emrekalay-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <!-- Aşağıdaki satırların yorumunu kaldırıp bilgilerini yaz
+  
   <a href="mailto:EPOSTA_ADRESIN"><img src="https://img.shields.io/badge/E--posta-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/KULLANICI_ADIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   -->
