@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bayrak.gif" width="700" alt="Banner" />
+  <img src="assets/bayrak.gif" width="700" alt="Banner" />
 </p>
 
 <h1 align="center">Emre</h1>
