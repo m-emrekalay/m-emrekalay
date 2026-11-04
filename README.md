@@ -32,13 +32,14 @@ I'm a developer with a hardware and systems background, now moving toward softwa
 | **Systems & Infrastructure** | Server setup, IP camera systems, Ubuntu Server |
 | **Cybersecurity** | Core concepts, hands-on practice with Kali Linux (learning stage) |
 
-## Tech Stack
+Tech Stack
+<p> <img src="https://skillicons.dev/icons?i=python,cpp,bash,django,mysql,docker,git,github" alt="tech stack" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,django,mysql,git,github" alt="tech stack" />
-</p>
+Operating Systems: Ubuntu Server, Arch Linux, Kali Linux
 
-**Operating Systems:** Ubuntu Server, Arch Linux, Kali Linux
+AI & Automation Tools:
+
+<p> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/OpenCode-333333?style=flat-square" alt="OpenCode" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /> </p>
 
 ## Currently Focusing On
 
