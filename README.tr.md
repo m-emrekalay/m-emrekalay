@@ -32,13 +32,14 @@ Donanım ve sistem altyapısı tarafından gelen, yazılım geliştirme ve siber
 | **Sistem & Altyapı** | Sunucu kurulumu, IP kamera sistemleri, Ubuntu Server |
 | **Siber Güvenlik** | Temel kavramlar, Kali Linux ile pratik çalışmalar (öğrenme aşamasında) |
 
-## Teknoloji Yığını
+Teknoloji Yığını
+<p> <img src="https://skillicons.dev/icons?i=python,cpp,bash,django,mysql,docker,git,github" alt="tech stack" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,django,mysql,git,github" alt="tech stack" />
-</p>
+İşletim Sistemleri: Ubuntu Server, Arch Linux, Kali Linux
 
-**İşletim Sistemleri:** Ubuntu Server, Arch Linux, Kali Linux
+AI & Otomasyon Araçları:
+
+<p> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/OpenCode-333333?style=flat-square" alt="OpenCode" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /> </p>
 
 ## Şu An Odaklandığım Konular
 
